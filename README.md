@@ -60,3 +60,4 @@ For any questions. comments, or bug reports, please feel free to reach out to me
 
 _This README was generated with ❤️ by Josh West using [README-generator](https://github.com/SuperDasMan/README-Generator)_
 
+&copy; 2022 SuperDasMan Studios, LLC.
